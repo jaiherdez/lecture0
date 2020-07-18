@@ -2,4 +2,5 @@
 Le adiciono esta linea dentro de gitHub
 +
 :
+Ahora le adiciono otra linea desde la terminal
 
